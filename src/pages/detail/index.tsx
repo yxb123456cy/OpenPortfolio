@@ -1,5 +1,5 @@
 import React from 'react';
-import './detail.module.scss'
+import './index.module.scss'
 const DetailView: React.FC = () => {
     return (
         <div>
