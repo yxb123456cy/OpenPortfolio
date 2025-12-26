@@ -1,0 +1,2 @@
+OpenPortfolio — A configurable, developer-friendly portfolio framework built with React, TypeScript and Ant Design, designed for quickly creating modern engineering portfolios.
+OpenPortfolio — 基于 React + TypeScript + Ant Design 的通用开发者作品集项目，支持配置化快速生成个人工程作品展示网站。
