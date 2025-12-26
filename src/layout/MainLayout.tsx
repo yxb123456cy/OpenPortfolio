@@ -13,7 +13,7 @@ const MainLayout: React.FC = () => {
         <Outlet />
       </Layout>
       <Footer style={{ textAlign: 'center', background: '#fff' }}>
-        OpenPortfolio ©{new Date().getFullYear()} Created with Ant Design
+        OpenPortfolio ©{new Date().getFullYear()} Created with Ant Design V6 + React19
       </Footer>
     </Layout>
   );
