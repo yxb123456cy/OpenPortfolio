@@ -1,8 +1,10 @@
 import { createBrowserRouter, Navigate } from 'react-router-dom';
 import MainLayout from '../layout/MainLayout';
+
+import { Placeholder } from './placeholder';
 import Home from '../pages/home';
 import About from '../pages/about';
-import { Placeholder } from './placeholder';
+import Resume from '../pages/resume';
 const router = createBrowserRouter([
   {
     path: '/',
@@ -18,7 +20,7 @@ const router = createBrowserRouter([
       },
       {
         path: 'resume',
-        element: <Placeholder title="Resume" />,
+        element: <Resume />,
       },
       {
         path: 'about',

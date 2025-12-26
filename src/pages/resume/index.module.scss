@@ -1,0 +1,39 @@
+.resumeContainer {
+  padding: 50px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.timelineSection {
+  margin-bottom: 40px;
+}
+
+.timelineItem {
+  padding-bottom: 20px;
+}
+
+.skillsSection {
+  margin-top: 20px;
+}
+
+.skillCategory {
+  margin-bottom: 24px;
+  
+  h4 {
+    margin-bottom: 16px;
+    color: #333;
+    font-weight: 500;
+  }
+}
+
+.skillItem {
+  margin-bottom: 12px;
+}
+
+.skillName {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4px;
+  font-size: 14px;
+  color: #666;
+}
